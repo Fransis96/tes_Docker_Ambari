@@ -1,3 +1,0 @@
-[submodule "ambari-agent"]
-	path = ambari-agent
-	url = git@github.com:Fransis96/tes_Docker_Ambari.git
